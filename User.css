@@ -1,0 +1,486 @@
+
+
+/* Sunekuro */
+
+#chat [data-cid^="1143269-"] span.un.clickable,
+#user-lists .list.room .id-1143269 .name,
+#user-lists .list.room .is-staff.id-1143269 .name,
+#user-lists .list.room .is-dj.id-1143269 .name,
+#user-lists .list.room .is-subscriber.id-1143269 .name,
+#user-lists .list.room [class*='role'].id-38741985 .name,
+#chat .msg .text .id-38741985,
+#chat .msg .text .name.id-38741985,
+#chat .msg .text .name.id-38741985 .name,
+#user-rollover.id-38741985 .username {
+background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #000000), color-stop(0.15, #FFFF00), color-stop(0.3, #000000), color-stop(0.45, #FFFF00), color-stop(0.6, #000000),color-stop(0.75, #FFFF00), color-stop(0.9, #000000), color-stop(1, #FFFF00) );
+background-image: gradient( linear, left top, right top, color-stop(0, #000000), color-stop(0.15, #FFFF00), color-stop(0.3, #000000), color-stop(0.45, #FFFF00), color-stop(0.6, #000000),color-stop(0.75, #FFFF00), color-stop(0.9, #FFFF00), color-stop(1, #FFFF00) );
+color:transparent;
+-webkit-background-clip: text;
+background-clip: text;
+}
+
+               /* TsukasaMiyako */
+#chat [data-cid^="9502292-"] span.un.clickable,
+#user-lists .list.room .id-9502292 .name,
+#user-lists .list.room .is-staff.id-9502292 .name,
+#user-lists .list.room .is-dj.id-9502292 .name,
+#user-lists .list.room .is-subscriber.id-9502292 .name,
+#user-lists .list.room [class*='role'].id-9502292 .name,
+#chat .msg .text .id-9502292,
+#chat .msg .text .name.id-9502292,
+#chat .msg .text .name.id-9502292 .name,
+#user-rollover.id-9502292 .username {
+background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+background-image: gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+color:transparent;
+-webkit-background-clip: text;
+background-clip: text;
+}
+
+
+/* Shirotama */
+
+#chat [data-cid^="5915715-"] span.un.clickable,
+#user-lists .list.room .id-5915715 .name,
+#user-lists .list.room .is-staff.id-5915715 .name,
+#user-lists .list.room .is-dj.id-5915715 .name,
+#user-lists .list.room .is-subscriber.id-5915715 .name,
+#user-lists .list.room [class*='role'].id-5915715 .name,
+#chat .msg .text .id-5915715,
+#chat .msg .text .name.id-5915715,
+#chat .msg .text .name.id-5915715 .name,
+#user-rollover.id-5915715 .username {
+background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #000000), color-stop(0.15, #FFFF00), color-stop(0.3, #000000), color-stop(0.45, #FFFF00), color-stop(0.6, #000000),color-stop(0.75, #FFFF00), color-stop(0.9, #000000), color-stop(1, #FFFF00) );
+background-image: gradient( linear, left top, right top, color-stop(0, #000000), color-stop(0.15, #FFFF00), color-stop(0.3, #000000), color-stop(0.45, #FFFF00), color-stop(0.6, #000000),color-stop(0.75, #FFFF00), color-stop(0.9, #FFFF00), color-stop(1, #FFFF00) );
+color:transparent;
+-webkit-background-clip: text;
+background-clip: text;
+}
+               /* BOT */
+#chat [data-cid^="22377749-"] span.un.clickable,
+#user-lists .list.room .id-22377749 .name,
+#user-lists .list.room .is-staff.id-22377749 .name,
+#user-lists .list.room .is-dj.id-22377749 .name,
+#user-lists .list.room .is-subscriber.id-22377749 .name,
+#user-lists .list.room [class*='role'].id-22377749 .name,
+#chat .msg .text .id-22377749,
+#chat .msg .text .name.id-22377749,
+#chat .msg .text .name.id-22377749 .name,
+#user-rollover.id-22377749 .username {
+background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+background-image: gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+color:transparent;
+-webkit-background-clip: text;
+background-clip: text;
+}
+
+               /* CAIQUE */
+#chat [data-cid^="3409101-"] span.un.clickable,
+#user-lists .list.room .id-3409101 .name,
+#user-lists .list.room .is-staff.id-3409101 .name,
+#user-lists .list.room .is-dj.id-3409101 .name,
+#user-lists .list.room .is-subscriber.id-3409101 .name,
+#user-lists .list.room [class*='role'].id-3409101 .name,
+#chat .msg .text .id-3409101,
+#chat .msg .text .name.id-3409101,
+#chat .msg .text .name.id-3409101 .name,
+#user-rollover.id-3409101 .username {
+background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+background-image: gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+color:transparent;
+-webkit-background-clip: text;
+background-clip: text;
+}
+
+/* Menina Veneno */ 
+[data-cid^="21755082-"] .badge-box .bdg,
+#user-rollover.id-21755082 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://pbs.twimg.com/media/Cf_rZhTUEAA5hG_.jpg");
+	
+}
+#user-rollover.id-21755082 .thumb .avi {
+    background: url(http://31.media.tumblr.com/05eedcc7704b9a37cc87bcb0124c7a08/tumblr_myjey3rm6V1qztgoio4_250.gif) center center / 180px no-repeat !important;
+}
+
+/* BOT */ 
+[data-cid^="22377749-"] .badge-box .bdg,
+#user-rollover.id-22377749 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://66.media.tumblr.com/cc50cb06d5bbf08800722adb585cd954/tumblr_ojcya9pcwa1vze779o9_250.png");
+
+}
+#user-rollover.id-22377749 .thumb .avi {
+    background: url(http://giphygifs.s3.amazonaws.com/media/633wmM0W53FPa/giphy.gif) center center / 180px no-repeat !important;
+}
+
+/* Lolla */ 
+[data-cid^="23246837-"] .badge-box .bdg,
+#user-rollover.id-23246837 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://pbs.twimg.com/profile_images/1138384531784908801/rtjBbbwt_400x400.jpg");
+
+}
+#user-rollover.id-23246837 .thumb .avi {
+    background: url(https://media1.tenor.com/images/f31986e941238a30c7d2128e3b9092b9/tenor.gif) center center / 180px no-repeat !important;
+}
+
+
+/* Sunekuro */ 
+[data-cid^="1143269-"] .badge-box .bdg,
+#user-rollover.id-1143269 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://66.media.tumblr.com/fab79a090000ff548b93d60cd8d1f65b/88a595aa3cd88ce0-2f/s400x600/2ebf14dc569a65d33a07462a633b0ae0f44f27a0.png");
+    
+}
+#user-rollover.id-1143269 .thumb .avi {
+    background: url(https://66.media.tumblr.com/6db1218c49b583d3e99344de30f4b302/tumblr_owq60dVN0P1tbeohdo1_400.gifv) center center / 180px no-repeat !important;
+}
+
+/* Renan */
+[data-cid^="51346655-"] .badge-box .bdg,
+#user-rollover.id-51346655 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://66.media.tumblr.com/6b97b3d7df683c4c92ffbc952aba9294/tumblr_pja44lMNO81wfeojto2_400.png");
+
+}
+#user-rollover.id-51346655 .thumb .avi {
+    background: url(https://thumbs.gfycat.com/SpotlessFavoriteHusky-size_restricted.gif) center center / 180px no-repeat !important;
+}
+
+/* Tremplanista */ 
+[data-cid^="45292674-"] .badge-box .bdg,
+#user-rollover.id-45292674 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://66.media.tumblr.com/d62d63a042161eba58bd3ae321fb89c4/tumblr_okirb9ydYQ1w1qyevo4_250.png");
+	
+}
+#user-rollover.id-45292674 .thumb .avi {
+    background: url(https://i.pinimg.com/originals/73/c7/52/73c75239af4bed9b32cbd39ca5b659cd.gif) center center / 180px no-repeat !important;
+}
+
+/* KingHarem */ 
+[data-cid^="4796680-"] .badge-box .bdg,
+#user-rollover.id-4796680 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("http://images6.fanpop.com/image/photos/41400000/-Jisoo-Icons-jisoo-blackpink-41461907-200-200.png");
+	
+}
+#user-rollover.id-4796680 .thumb .avi {
+    background: url(https://media1.tenor.com/images/a338701e38a60a15e2e2d2fe99ae6056/tenor.gif?itemid=9473866) center center / 180px no-repeat !important;
+}
+
+/* Tsukasa */ 
+[data-cid^="9502292-"] .badge-box .bdg,
+#user-rollover.id-9502292 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.pinimg.com/originals/08/2e/72/082e72c7661240e9242baedc3e474476.png");
+    
+}
+#user-rollover.id-9502292 .thumb .avi {
+    background: url(https://media1.tenor.com/images/6b2554c07d7c64f8f1614357c2805d29/tenor.gif?itemid=10875885) center center / 180px no-repeat !important;
+}
+
+/* Shirotama */
+[data-cid^="5915715-"] .badge-box .bdg,
+#user-rollover.id-5915715 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://data.whicdn.com/images/100323173/original.jpg");
+
+}
+#user-rollover.id-5915715 .thumb .avi {
+    background: url(https://media.giphy.com/media/KTUJQ5CjwdB4Y/giphy.gif) center center / 180px no-repeat !important;
+}
+
+/* Lolla/2 */
+#user-rollover.id-23246837:before{
+    content: 'Roselia';
+    top: 95px;
+    left: 193px;
+    position: absolute;
+    display: inline-block; 
+    padding: 0 5px;
+    color: #f78fd4;
+    background: linear-gradient(rgba(0, 102, 102, 0.2), rgba(0, 102, 102, 0.2));
+    border-radius: 3px;
+    font-size: 10px;
+}
+
+/* !Special Menina Veneno */
+[data-cid^="21755082-"] .badge-box .bdg,
+#user-rollover.id-21755082 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://pbs.twimg.com/media/Cf_rZhTUEAA5hG_.jpg");
+}	
+/* Lolla/3 */
+[data-cid^="23246837"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://pbs.twimg.com/media/DqxE0fCXcAAzgVP.jpg');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}    
+/* Carol/3 */
+[data-cid^="8741985-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://data.whicdn.com/images/156044076/original.jpg');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}    
+/*  */
+[data-cid^="-"] .badge-box .bdg,
+#user-rollover.id- .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://78.media.tumblr.com/tumblr_m653f4N0bY1qg132w.gif");
+}	
+/* Background Users */
+.cm.message.deletable.id-21755082::before,
+.cm.message.id-21755082::before {
+	background-image: url(#);	/* !Special Menina Veneno BACKGROUND */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+.cm.message.deletable.id-8741985::before,
+.cm.message.id-8741985::before {
+	background-image: url(#);	/* Carol BACKGROUND */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 150%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -50px;
+	background-position-x: right;
+}
+
+
+
+.cm.message.deletable.id-23246837::before,
+.cm.message.id-23246837::before {
+	background-image: url(#);	/* Lolla BACKGROUND */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+
+.cm.message.deletable.id-3409101::before,
+.cm.message.id-3409101::before {
+	background-image: url(#);	/* Caique */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+
+#chat [data-cid^="21755082-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+#chat [data-cid^="23246837-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+#chat [data-cid^="3409101-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+#chat [data-cid^="8741985-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+#chat [data-cid^="22377749-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+#user-lists .list .user.id-1143269 .name:after,
+#chat [data-cid^='1143269-'] .un:after,
+#user-lists .list .user.id-1143269 .name:after,
+#chat [data-cid^='1143269-'] .un:after,
+#user-lists .list .user.id-1143269 .name:after,
+#chat [data-cid^='1143269-'] .un:after {
+    content: 'CHEFÃO';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #ff00d0;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-1143269:hover .name:after,
+#chat [data-cid^='1143269-'] .un:hover:after,
+#user-lists .list .user.id-1143269:hover .name:after,
+#chat [data-cid^='1143269-'] .un:hover:after,
+#user-lists .list .user.id-1143269:hover .name:after,
+#chat [data-cid^='1143269-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
+#user-lists .list .user.id-23246837 .name:after,
+#chat [data-cid^='23246837-'] .un:after,
+#user-lists .list .user.id-23246837 .name:after,
+#chat [data-cid^='23246837-'] .un:after,
+#user-lists .list .user.id-23246837 .name:after,
+#chat [data-cid^='23246837-'] .un:after {
+    content: 'Bandori';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #ff00d0;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-23246837:hover .name:after,
+#chat [data-cid^='23246837-'] .un:hover:after,
+#user-lists .list .user.id-23246837:hover .name:after,
+#chat [data-cid^='23246837-'] .un:hover:after,
+#user-lists .list .user.id-23246837:hover .name:after,
+#chat [data-cid^='23246837-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
+#user-lists .list .user.id-21755082 .name:after,
+#chat [data-cid^='21755082-'] .un:after,
+#user-lists .list .user.id-20574971 .name:after,
+#chat [data-cid^='21755082-'] .un:after,
+#user-lists .list .user.id-21755082 .name:after,
+#chat [data-cid^='21755082-'] .un:after {
+    content: 'ANIMES❣';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-21755082:hover .name:after,
+#chat [data-cid^='21755082-'] .un:hover:after,
+#user-lists .list .user.id-21755082:hover .name:after,
+#chat [data-cid^='21755082-'] .un:hover:after,
+#user-lists .list .user.id-21755082:hover .name:after,
+#chat [data-cid^='21755082-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
+#user-lists .list .user.id- 51346655 .name:after,
+#chat [data-cid^=' 51346655-'] .un:after,
+#user-lists .list .user.id- 51346655 .name:after,
+#chat [data-cid^=' 51346655-'] .un:after,
+#user-lists .list .user.id- 51346655 .name:after,
+#chat [data-cid^=' 51346655-'] .un:after {
+    content: 'RED VELVET';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-22377749:hover .name:after,
+#chat [data-cid^='22377749-'] .un:hover:after,
+#user-lists .list .user.id-22377749:hover .name:after,
+#chat [data-cid^='22377749-'] .un:hover:after,
+#user-lists .list .user.id-22377749:hover .name:after,
+#chat [data-cid^='22377749-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
+#user-rollover.id-21755082 .meta{
+height: 146px !important;
+}
+#user-rollover.id-21755082 .meta:before{
+    content: '✞';
+    top: 120px;
+    left: 109px;
+    position: absolute;
+	display: inline-block; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-rollover.id-21755082 .meta:after{
+    content: 'FAMOSINHA';
+    color: #009A80;
+    position: absolute;
+    top: 117px;
+    left: 134px;
+}
